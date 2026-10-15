@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "AETHEL COLLECTIVE Books",
+  "short_name": "AETHEL Books",
+  "description": "Premium double-entry books for AETHEL COLLECTIVE.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#101b2d",
+  "icons": [
+    {
+      "src": "/AethelMonogram.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
